@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeys432&label=Profile%20views&color=0e75b6&style=flat" alt="pandeys432" /> </p>
 
-- 🔭 I’m currently pursuing my **Bachelor of Technology from MNNIT Allahabad.**
+- 🔭 I’m a **Data & AI Analyst at IndiaAI(MeitY).**
 
-- 🌱 I’m currently working on **Software Development Skills.**
+- 🌱 I’m currently working as **AI Curation Unit for Ministry of Road Transport & Highways.**
 
-- 🤝 I’m a Web Developer at **Entrepreneurship Cell MNNIT**
+- 🤝 I also have **Web Developement Expertise along with AI and Data Analysis.**
 
 - 💬 Ask me anything! **Always ready to help!**
 
